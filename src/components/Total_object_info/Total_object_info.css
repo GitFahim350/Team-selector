@@ -1,0 +1,8 @@
+.text_aligning{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h4{
+    backgroundColor: rgb(231, 0, 0);
+}

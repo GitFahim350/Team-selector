@@ -1,0 +1,117 @@
+[{
+    "id": 1,
+    "first_name": "Neymar",
+    "last_name": "Jr",
+    "position": "CF",
+    "salary": "$450",
+    "img":"https://cdn.images.express.co.uk/img/dynamic/67/590x/Neymar-PSG-Real-Madrid-Barcelona-transfer-1033478.jpg?r=1539887595984"
+
+  }, 
+  {
+    "id": 2,
+    "first_name": "Antoine ",
+    "last_name": "Griezmann",
+    "position": "CM",
+    "salary": "$600",
+    "img":"https://images.beinsports.com/MEH-iNlwtU7i8V3LWmQYGtajuWo=/670x424/smart/antoine-griezmann-cropped_6yj8vmpz0t8s1nw0tae0em8vo.jpg"
+  },{
+    "id": 3,
+    "first_name": "Paul",
+    "last_name": " Pogba",
+    "position": "CF",
+    "salary": "$350",
+    "img":"https://therealchamps.com/wp-content/uploads/getty-images/2017/07/1195420706.jpeg"
+  },{
+    "id": 4,
+    "first_name": "Mohamed ",
+    "last_name": "salah",
+    "position": "CF",
+    "salary": "$400",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLz4RC557gEGk4oQXzdeYYQ2f6MDJhfK5i6uESJZ0OqB7K4C7aDbjXXBhV9S6feqZ1C6Q&usqp=CAU"
+  },{
+    "id": 5,
+    "first_name": "Kevin ",
+    "last_name": "De Bruyne",
+    "position": "CF",
+    "salary": "$300",
+    "img":"https://images.indianexpress.com/2021/04/de-bruyne-city.jpg"
+  },{
+    "id": 6,
+    "first_name": "Axel ",
+    "last_name": "Witsel",
+    "position": "CF",
+    "salary": "$345",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwinlBtVa0wt0DMrOfY42Am8tU2sG6_eQzjPGnOukmAn2R3hb2goaHSPeTqZl-tLyELU&usqp=CAU"
+  },{
+    "id": 7,
+    "first_name": "Martin ",
+    "last_name": "Braithwaite",
+    "position": "CF",
+    "salary": "$450",
+    "img":"https://images.daznservices.com/di/library/GOAL/e3/2/martin-braithwaite-barcelona-2020-21_1lbkm4ewrdxoh1m3xez5aw9h81.jpg?t=-480240312&quality=60&w=1200&h=800"
+  },
+
+  {
+    "id": 8,
+    "first_name": "Karim ",
+    "last_name": "Benzema",
+    "position": "CF",
+    "salary": "$500",
+    "img":"https://cdn.vox-cdn.com/thumbor/0fd1rGx2m8vwCXg11gPDRLZBKXM=/0x0:3000x2013/1200x800/filters:focal(1625x508:2105x988)/cdn.vox-cdn.com/uploads/chorus_image/image/68967749/1307050820.0.jpg"
+  },{
+    "id": 9,
+    "first_name": "Gareth ",
+    "last_name": "Baley",
+    "position": "CF",
+    "salary": "$480",
+    "img":"https://cdn.vox-cdn.com/thumbor/ryAxxTQsf4jvhK13H_As6Mbv-l0=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22534918/1319639225.jpg"
+  },{
+    "id": 10,
+    "first_name": "sergio ",
+    "last_name": "ramos",
+    "position": "CF",
+    "salary": "$470",
+    "img":"https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/sergio-ramos-1623898493.jpg"
+  },{
+    "id": 11,
+    "first_name": "Thiago ",
+    "last_name": "Alcântara",
+    "position": "CF",
+    "salary": "$400",
+    "img":"https://media-eng.dhakatribune.com/uploads/2020/09/thiago-alcantara-barcelona-1600340808074.jpeg"
+  },{
+    "id": 12,
+    "first_name": "Raphael ",
+    "last_name": "Varane",
+    "position": "CF",
+    "salary": "$350",
+    "img":"https://therealchamps.com/wp-content/uploads/getty-images/2017/07/1286951133.jpeg"
+  },{
+    "id": 13,
+    "first_name": "Blaise ",
+    "last_name": "Matuidi",
+    "position": "CF",
+    "salary": "$350",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaipJw0Swh4qq4sTFt-5S5S7Mt8_AU2QO7IA&usqp=CAU"
+  },{
+    "id": 14,
+    "first_name": "Kylian ",
+    "last_name": "Mbappé",
+    "position": "CF",
+    "salary": "$500",
+    "img":"https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/03/01/130934-pjimage-7.jpg"
+  },{
+    "id": 15,
+    "first_name": "Jack ",
+    "last_name": "Grealish",
+    "position": "CF",
+    "salary": "$400",
+    "img":"https://icdn.football-espana.net/wp-content/uploads/2021/02/Jack-Grealish2-640x464.jpg"
+  },{
+    "id": 16,
+    "first_name": "Kasper ",
+    "last_name": "Dolberg",
+    "position": "CF",
+    "salary": "$400",
+    "img":"https://i.guim.co.uk/img/media/12ae26cb0b1ac60c911a938359429b5d40088602/299_390_2325_1395/master/2325.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=903daab6805825a2d725dfa327163c78"
+  }]

@@ -1,0 +1,8 @@
+
+.Finalsalary{
+    display: flex;
+    justify-content: space-between;
+}
+.strong{
+    color: rgb(114, 97, 0);
+}
